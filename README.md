@@ -32,7 +32,7 @@ Make sure you have the following installed on your system:
 
 ### API Documentation
 
-Access the documentation for each endpoint [here](https://documenter.getpostman.com/view/40679033/2sAYJ6CfXd)
+https://documenter.getpostman.com/view/40679033/2sAYJ6CfXd
 
 ### Features
 - **CRUD Operations:**
